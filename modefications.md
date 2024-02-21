@@ -1,0 +1,4 @@
+- wellfare function
+- teddy bear inflation shock at 150
+- teddy bear distruction shock at 150
+- average price knewlodge
