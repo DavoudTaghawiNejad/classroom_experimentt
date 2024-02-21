@@ -33,7 +33,7 @@ class AbygameAgent:
             pygame.draw.rect(
                 screen, 
                 blue, 
-                (self.x, self.y, size, size))
+                (self.x, self.y, size - 5, size - 5))
 
             if goods > 0:
                 pygame.draw.circle(
